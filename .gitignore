@@ -1,0 +1,8 @@
+# Ignora guia de estilos
+/style-guilde.md
+
+# Ignora los ejemplos de diseño
+/design
+
+# Ignora un readme
+/xvcx.md
