@@ -40,8 +40,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [This is the solution as seen from Frontend Mentor](https://your-solution-url.com).
-- Live Site URL: [Live solution](https://your-live-site-url.com)
+- Solution URL: [This is the solution as seen from Frontend Mentor]().coming soon
+- Live Site URL: [Live solution](https://boudgnosis.github.io/base-apparel-coming-soon/).
 
 ## My process
 
@@ -60,7 +60,7 @@ Users should be able to:
 
 ### What I learned
 
-Use the `match()` function to search for the string the user enters and check with the `regExp` that I store in an object to verify if there is a match and return a message to the user.
+- Use the `match()` function to search for the string the user enters and check with the `regExp` that I store in an object to verify if there is a match and return a message to the user.
 
 ```js
 const BTN = document.getElementById("btn__form")
@@ -78,8 +78,9 @@ BTN.addEventListener("click", (e) => {
   }
 }
 
-
 ```
+
+- I also learned the basic use of the .gitignore file.
 
 ### Continued development
 
@@ -90,6 +91,7 @@ I continue learning how to manipulate the DOM, since this time I only used this 
 ### Useful resources
 
 - [Función JavaScript MATCH()](https://es.acervolima.com/funcion-javascript-match/)
+- [Guías de Make it Real](https://guias.makeitreal.camp/git/gitignore)
 
 ## Author
 
