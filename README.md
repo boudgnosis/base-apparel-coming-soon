@@ -40,7 +40,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [This is the solution as seen from Frontend Mentor]().coming soon
+- Solution URL: [This is the solution as seen from Frontend Mentor](https://www.frontendmentor.io/solutions/base-apparel-coming-soon-page-6MI9qdWV6Q).
 - Live Site URL: [Live solution](https://boudgnosis.github.io/base-apparel-coming-soon/).
 
 ## My process
